@@ -36,13 +36,6 @@ define([
                 collapsible: true,
                 region: 'bottom'
             },
-            top: {
-                id: 'sidebarTop',
-                placeAt: 'outer',
-                splitter: true,
-                collapsible: true,
-                region: 'top'
-            },
             left: {
                 id: 'sidebarLeft',
                 placeAt: 'outer',
